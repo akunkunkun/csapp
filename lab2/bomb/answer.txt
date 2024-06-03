@@ -1,0 +1,22 @@
+Border relations with Canada have never been better.
+1 2 4 8 16 32
+0 207
+7 0 
+ionefg
+
+4.
+a : edx . b : eax . c:esi . d : ecx
+int a ;
+int b ;
+int c ;
+b = b - c ;
+int d = a ;
+d  = d >> 31 ; (logic)
+b = b + d ;
+b = b >> 1 (arth)
+d = rax + rsi (a +  c )
+
+5.
+0x4024b0 <array.3449>:  "maduiersnfotvbylSo you think you│
+ can stop the bomb with ctrl-c, do you?"
+ <6  1 
